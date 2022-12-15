@@ -1,2 +1,2 @@
-# data_science_-regression_models
+# data_science_regression_models
 Linear Regression Variants &amp; Logistic Regression 
